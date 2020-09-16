@@ -1,5 +1,5 @@
 
-// Building a better Calculator 
+// Building a better Calculator using if and else if
 // https://www.youtube.com/watch?v=KJgsSFOSQv0&list=PL_z0e98vIDN_0zeN2UFglCAGyUyaLekm_&index=2&t=7569s
 
 #include <iostream>
@@ -36,3 +36,5 @@ int main()
 	}
 	return 0;
 }
+
+//Switch Statements
